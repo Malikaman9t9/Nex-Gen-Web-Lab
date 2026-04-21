@@ -7,3 +7,5 @@ plotly
 requests
 beautifulsoup4
 aiohttp
+google-generativeai
+python-docx
