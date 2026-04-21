@@ -1,0 +1,8 @@
+streamlit
+streamlit-option-menu
+python-dotenv
+pandas
+openpyxl
+plotly
+requests
+beautifulsoup4
