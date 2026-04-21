@@ -2,10 +2,14 @@ streamlit
 streamlit-option-menu
 python-dotenv
 pandas
+numpy
 openpyxl
 plotly
+matplotlib
+Pillow
 requests
 beautifulsoup4
+lxml
 aiohttp
 google-generativeai
 python-docx
