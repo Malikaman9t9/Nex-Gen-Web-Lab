@@ -6,3 +6,4 @@ openpyxl
 plotly
 requests
 beautifulsoup4
+aiohttp
